@@ -1,2 +1,2 @@
-# .github-private
-OpsMill
+# OpsMill
+Infrahub by OpsMill 

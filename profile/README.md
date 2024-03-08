@@ -1,4 +1,6 @@
-## Welcome to the OpsMill team 🙌
+## Welcome to OpsMill! 🦦
+
+Find out more at https://opsmill.com/
 
 <!--
 
